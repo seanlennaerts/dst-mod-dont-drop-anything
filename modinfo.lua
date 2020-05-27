@@ -1,7 +1,7 @@
 name = "Don't Drop Anything"
 description = "Actually don't drop anything when you die."
 author = "Sean Lennaerts"
-version = "0.1.1"
+version = "0.1.2"
 
 api_version_dst = 10
 

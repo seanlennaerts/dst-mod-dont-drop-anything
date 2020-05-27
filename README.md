@@ -15,4 +15,4 @@ Please note this means that it won't even drop the telltale heart!
 ![gameplay gif](https://thumbs.gfycat.com/UnacceptableMadHalicore-size_restricted.gif)
 
 ## How to Install
-Subscribe to it here: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2110246021)
+Subscribe to it here on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2110246021).

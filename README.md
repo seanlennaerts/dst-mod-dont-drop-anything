@@ -1,14 +1,16 @@
 <p align="center">
-  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2110246021">
-    <img src="images/modicon.png" alt="Don't Drop Anything" />
-  </a>
+  <img src="images/modicon.png" alt="Don't Drop Anything" />
 </p>
+
+<h1 align="center">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2110246021">Don't Drop Anything</a>
+</h1>
+
+<p align="center">A server side mod for Don't Starve Together</p>
 
 <p align="center">
   <img src="https://img.shields.io/steam/subscriptions/2110246021" alt="number of subscribers"/>
 </p>
-
-<p align="center">A server side mod for Don't Starve Together</p>
 
 ## Description
 
